@@ -1,1 +1,3 @@
-# Ruby_Daily_Lesson_Codes
+###Daily Lesson Codes & Examples
+
+From first two weeks of class.
